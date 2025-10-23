@@ -72,7 +72,7 @@ crewai install
 To kickstart your crew of AI agents and begin task execution, run this from the root folder of your project:
 
 ```bash
-crewai flow kickoff --directory /path/to/your/files --query "Tell me about semiconductors"
+crewai flow kickoff --directory /path/to/your/files --query "Tell me about semiconductors."
 ```
 
 This command initializes the Agentic_RAG Crew, assembling the agents and assigning them tasks as defined in your configuration.
